@@ -19,16 +19,21 @@
 📸 27_account_lockout_error.png
 
 4.Unlock and Reset User Password in ADUC
-📸 28_account_locked_in_aduc.png
-📸 29_unlock_and_reset_password.png
+📸 ![image](https://github.com/user-attachments/assets/ea3c781a-01b6-4a48-9602-3dc34b8c45bf)
+
+📸 29![image](https://github.com/user-attachments/assets/5ffafbe0-05d5-4f79-8231-cc404553d97a)
+
 📸 30_successful_login_after_unlock.png
 
 5.Disable and Re-enable User Account
-📸 31_account_disabled_aduc.png
+📸 ![image](https://github.com/user-attachments/assets/e7502a14-4d6f-46a1-b908-dfb011645123)
+
 📸 32_disabled_login_error.png
-📸 33_account_reenabled_successful_login.png
+📸 ![image](https://github.com/user-attachments/assets/1338ca80-479b-45e3-88af-24a1ec758da6)
+
 
 6.View Security Logs on DC and Client
 •DC Logs: 4625, 4740
-📸 34_event_log_account_locked_dc.png
+📸 ![image](https://github.com/user-attachments/assets/0e3d01c6-3cbc-492b-b110-ee02ef9b2f19)
+
 📸 35_failed_logins_client_logs.png
