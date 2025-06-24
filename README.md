@@ -8,8 +8,10 @@
 
 2.Configure Lockout Policy in Group Policy
 •Threshold: 5 attempts, Duration: 15 mins
-📸 25_account_lockout_gpo_config.png
-📸 26_gpupdate_force_run.png
+📸 ![image](https://github.com/user-attachments/assets/e83ad67f-26ce-41e4-ac57-9d2cbda6d507)
+![image](https://github.com/user-attachments/assets/6eaac35f-b4ba-430e-8298-4dc524728a27)
+
+📸![image](https://github.com/user-attachments/assets/adcca128-3215-4d35-a882-85dc4b015594) gpupdate_force_run.png
 
 3.Trigger Lockout with 6 Failed Logins
 📸 27_account_lockout_error.png
