@@ -13,6 +13,8 @@
 
 📸![image](https://github.com/user-attachments/assets/adcca128-3215-4d35-a882-85dc4b015594) gpupdate_force_run.png
 
+![image](https://github.com/user-attachments/assets/1aca7edf-0e07-4e28-a160-0a1d70999b05)
+
 3.Trigger Lockout with 6 Failed Logins
 📸 27_account_lockout_error.png
 
