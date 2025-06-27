@@ -22,7 +22,7 @@
 
 📸 ![image](https://github.com/user-attachments/assets/5ffafbe0-05d5-4f79-8231-cc404553d97a)
 
-📸 ![Screenshot (1)](https://github.com/user-attachments/assets/61de8109-d727-41cd-b645-a56fafe3af13)
+
 
 
 5.Disable and Re-enable User Account
@@ -32,9 +32,8 @@
 
 📸 ![image](https://github.com/user-attachments/assets/1338ca80-479b-45e3-88af-24a1ec758da6)
 
+📸 ![Screenshot (1)](https://github.com/user-attachments/assets/dbc1904a-9a8c-4753-b30c-b5c03d781ddf)
 
 6.View Security Logs on DC and Client
 •DC Logs: 4625, 4740
 📸 ![image](https://github.com/user-attachments/assets/0e3d01c6-3cbc-492b-b110-ee02ef9b2f19)
-
-📸 35_failed_logins_client_logs.png
